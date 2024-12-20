@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/bin/Debug/net8.0/Bridge
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/bin/Debug/net8.0/Bridge.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/bin/Debug/net8.0/Bridge.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/bin/Debug/net8.0/Bridge.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/bin/Debug/net8.0/Bridge.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/refint/Bridge.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/Bridge.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Bridge/obj/Debug/net8.0/ref/Bridge.dll

@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/bin/Debug/net8.0/Flyweight
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/bin/Debug/net8.0/Flyweight.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/bin/Debug/net8.0/Flyweight.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/bin/Debug/net8.0/Flyweight.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/bin/Debug/net8.0/Flyweight.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/refint/Flyweight.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/Flyweight.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Flyweight/obj/Debug/net8.0/ref/Flyweight.dll

@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/bin/Debug/net8.0/Decorator
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/bin/Debug/net8.0/Decorator.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/bin/Debug/net8.0/Decorator.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Decorator/obj/Debug/net8.0/ref/Decorator.dll

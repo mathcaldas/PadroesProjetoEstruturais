@@ -1,3 +1,5 @@
+namespace Facade.src;
+
 public class Lights
 {
     public void Dim(int level)

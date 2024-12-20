@@ -1,3 +1,7 @@
+using Decorator.Interfaces;
+
+namespace Decorator.Decorators;
+
 public class EmailDecorator : INotification
 {
     private readonly INotification _notification;

@@ -1,11 +1,15 @@
-namespace Bridge.Shapes;
+using Bridge.Interfaces;
 
-public class Square : Shape
+namespace Bridge.Shapes
 {
-    public Square(IColor color) : base(color) { }
-
-    public override void Draw()
+    public class Square : Shape
     {
-        Console.WriteLine("Drawing a square.");
+        public Square(IColor color) : base(color) { }
+
+        public override void Draw()
+        {
+            _color.ApplyColor();
+            Console.WriteLine("Drawing a square.");
+        }
     }
 }

@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/bin/Debug/net8.0/Proxy
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/bin/Debug/net8.0/Proxy.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/bin/Debug/net8.0/Proxy.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/bin/Debug/net8.0/Proxy.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/bin/Debug/net8.0/Proxy.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/refint/Proxy.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/Proxy.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Proxy/obj/Debug/net8.0/ref/Proxy.dll

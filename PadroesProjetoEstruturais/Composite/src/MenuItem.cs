@@ -1,7 +1,22 @@
-public class MenuItem : IMenuComponent
+using System;
+using Composite.Interfaces;
+
+namespace Composite
 {
-    public void Display()
+    public class MenuItem : IMenuComponent
     {
-        // Implementation for displaying the menu item
+        private string _name;
+        private string _description;
+
+        public MenuItem(string name, string description)
+        {
+            _name = name;
+            _description = description;
+        }
+
+        public void Display()
+        {
+            Console.WriteLine($"Menu Item: {_name}, Description: {_description}");
+        }
     }
 }

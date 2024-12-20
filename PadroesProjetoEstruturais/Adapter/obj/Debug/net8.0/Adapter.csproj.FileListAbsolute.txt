@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/bin/Debug/net8.0/Adapter
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/bin/Debug/net8.0/Adapter.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/bin/Debug/net8.0/Adapter.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Adapter/obj/Debug/net8.0/ref/Adapter.dll

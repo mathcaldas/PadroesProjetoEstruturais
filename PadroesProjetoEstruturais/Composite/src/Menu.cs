@@ -14,8 +14,8 @@ public class Menu : IMenuComponent
         }
     }
 
-    public void Add()
+    public void Add(string name, string description)
     {
-        components.Add(new MenuItem());
+        components.Add(new MenuItem(name, description));
     }
 }

@@ -2,7 +2,7 @@ namespace Proxy.src;
 
 public class ProxyImage : IImage
 {
-    private RealImage _realImage;
+    private RealImage? _realImage;
     private string _imageFileName;
 
     public ProxyImage(string imageFileName)

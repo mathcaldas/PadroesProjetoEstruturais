@@ -1,9 +1,13 @@
-namespace Adapter.Adapters;
-
 using Adapter.Interfaces;
 using Adapter.Sensors;
 
-public class SensorCAdapter 
+namespace Adapter.Adapters;
+public class SensorCAdapter : ITemperatureSensor
 {
     private readonly SensorC _sensorC = new();
+
+    public float ReadTemperature()
+    {
+        return _sensorC.FetchTempC();
+    }
 }

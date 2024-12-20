@@ -1,3 +1,5 @@
+namespace Facade.src;
+
 public class Projector
 {
     public void On()

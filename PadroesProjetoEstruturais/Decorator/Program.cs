@@ -1,7 +1,7 @@
 ﻿using System;
-using NotificationSystem.Decorators;
-using NotificationSystem.Interfaces;
-using NotificationSystem.Notifications;
+using Decorator.Decorators;
+using Decorator.Interfaces;
+using Decorator.Notifications;
 
 class Program
 {

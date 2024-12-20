@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.AssemblyInfo.cs
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.sourcelink.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/bin/Debug/net8.0/Composite
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/bin/Debug/net8.0/Composite.deps.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/bin/Debug/net8.0/Composite.runtimeconfig.json
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/bin/Debug/net8.0/Composite.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/bin/Debug/net8.0/Composite.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/refint/Composite.dll
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.pdb
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/Composite.genruntimeconfig.cache
+/workspaces/codespaces-blank/PadroesProjetoEstruturais/Composite/obj/Debug/net8.0/ref/Composite.dll

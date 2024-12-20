@@ -1,3 +1,5 @@
+namespace Facade.src;
+
 public class SoundSystem
 {
     public void On()

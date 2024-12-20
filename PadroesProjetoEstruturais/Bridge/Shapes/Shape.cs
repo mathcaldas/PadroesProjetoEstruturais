@@ -4,7 +4,7 @@ using Bridge.Interfaces;
 
 public abstract class Shape
 {
-    private IColor _color;
+    protected IColor _color;
 
     public Shape(IColor color)
     {
